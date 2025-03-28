@@ -2,6 +2,6 @@
 "banner":"543908325950680",
 "lovin_kii": "-gZCVF8CrTwrEnJlmARhvqx70po9HDW0V4Ar-099uam0f3DORup6y9f5_6GvXPy_-Kv7CkquXAGJhPudC-PXeK",
   "splash_first": 110,
-  "before_id": "1234",
+  "before_id": "123456k",
   "after_id": "1234"
 }
