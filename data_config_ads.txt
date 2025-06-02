@@ -3,5 +3,11 @@
 "lovin_kii": "-gZCVF8CrTwrEnJlmARhvqx70po9HDW0V4Ar-099uam0f3DORup6y9f5_6GvXPy_-Kv7CkquXAGJhPudC-PXeK",
   "splash_first": 200,
   "before_id": "BwBqgCgIVPa1CNyH3CqfPw==",
-  "after_id": "LnN0b3Jl"
+  "after_id": "LnN0b3Jl",
+  "admobBanner": "ca-app-pub-9600383135581620/2179450518",
+  "admobInterstitial": "ca-app-pub-9600383135581620/6176242133",
+  "admobSplash": "ca-app-pub-9600383135581620/9866368841",
+  "admobReward": "ca-app-pub-9600383135581620/7708987093",
+  "admobNative": "ca-app-pub-9600383135581620/5082823755",
+  "admobOpen": "ca-app-pub-9600383135581620/5927123830"
 }
